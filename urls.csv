@@ -1,0 +1,297 @@
+url,category
+https://www.amazon.com,e-commerce
+https://www.ebay.com,e-commerce
+https://www.walmart.com,e-commerce
+https://www.alibaba.com,e-commerce
+https://www.etsy.com,e-commerce
+https://www.target.com,e-commerce
+https://www.bestbuy.com,e-commerce
+https://www.zalando.com,e-commerce
+https://www.myntra.com,e-commerce
+https://www.flipkart.com,e-commerce
+https://www.shopify.com,e-commerce
+https://www.jabong.com,e-commerce
+https://www.asos.com,e-commerce
+https://www.officedepot.com,e-commerce
+https://www.macys.com,e-commerce
+https://www.dell.com,e-commerce
+https://www.costco.com,e-commerce
+https://www.techcrunch.com,technology
+https://www.wired.com,technology
+https://www.theverge.com,technology
+https://www.cnet.com,technology
+https://www.engadget.com,technology
+https://www.recode.net,technology
+https://www.gizmodo.com,technology
+https://www.techradar.com,technology
+https://www.zdnet.com,technology
+https://www.tomshardware.com,technology
+https://www.arstechnica.com,technology
+https://www.androidauthority.com,technology
+https://www.techspot.com,technology
+https://www.bgr.com,technology
+https://www.mashable.com,technology
+https://www.forbes.com/tech,technology
+https://www.businessinsider.com/tech,technology
+https://www.digitaltrends.com,technology
+https://www.pcworld.com,technology
+https://www.webmd.com,health
+https://www.mayoclinic.org,health
+https://www.healthline.com,health
+https://www.medlineplus.gov,health
+https://www.nhs.uk,health
+https://www.cdc.gov,health
+https://www.who.int,health
+https://www.psychologytoday.com,health
+https://www.huffpost.com/health,health
+https://www.health.com,health
+https://www.bbc.co.uk/news/health,health
+https://www.verywellhealth.com,health
+https://www.aafa.org,health
+https://www.smithsonianmag.com/health,health
+https://www.heart.org,health
+https://www.diabetes.org,health
+https://www.alz.org,health
+https://www.cancer.org,health
+https://www.lung.org,health
+https://www.msrc.co.uk,health
+https://www.tripadvisor.com,travel
+https://www.expedia.com,travel
+https://www.booking.com,travel
+https://www.airbnb.com,travel
+https://www.travelocity.com,travel
+https://www.hotels.com,travel
+https://www.kayak.com,travel
+https://www.priceline.com,travel
+https://www.lonelyplanet.com,travel
+https://www.ricksteves.com,travel
+https://www.virtuoso.com,travel
+https://www.trivago.com,travel
+https://www.rome2rio.com,travel
+https://www.yelp.com,travel
+https://www.zomato.com,travel
+https://www.momondo.com,travel
+https://www.cheapflights.com,travel
+https://www.farecompare.com,travel
+https://www.travelandleisure.com,travel
+https://www.afar.com,travel
+https://www.investopedia.com,finance
+https://www.nerdwallet.com,finance
+https://www.money.cnn.com,finance
+https://www.fidelity.com,finance
+https://www.bloomberg.com,finance
+https://www.reuters.com/finance,finance
+https://www.wsj.com,finance
+https://www.forbes.com/finance,finance
+https://www.marketwatch.com,finance
+https://www.businessinsider.com/finance,finance
+https://www.yahoofinance.com,finance
+https://www.cnbc.com,finance
+https://www.morningstar.com,finance
+https://www.thefinancialexpress.com,finance
+https://www.entrepreneur.com/finance,finance
+https://www.americanexpress.com,finance
+https://www.creditkarma.com,finance
+https://www.wellsfargo.com,finance
+https://www.barrons.com,finance
+https://www.thestreet.com,finance
+https://www.netflix.com,entertainment
+https://www.hulu.com,entertainment
+https://www.disneyplus.com,entertainment
+https://www.hbo.com,entertainment
+https://www.amazonprimevideo.com,entertainment
+https://www.apple.com/tv,entertainment
+https://www.paramountplus.com,entertainment
+https://www.peacocktv.com,entertainment
+https://www.mubi.com,entertainment
+https://www.vudu.com,entertainment
+https://www.crackle.com,entertainment
+https://www.tubi.tv,entertainment
+https://www.fubo.tv,entertainment
+https://www.starz.com,entertainment
+https://www.showtime.com,entertainment
+https://www.hbomax.com,entertainment
+https://www.acorn.tv,entertainment
+https://www.cinemax.com,entertainment
+https://www.netflix.co.uk,entertainment
+https://www.sundance.tv,entertainment
+https://www.autotrader.com,automotive
+https://www.cars.com,automotive
+https://www.edmunds.com,automotive
+https://www.kbb.com,automotive
+https://www.motortrend.com,automotive
+https://www.caranddriver.com,automotive
+https://www.roadandtrack.com,automotive
+https://www.autoblog.com,automotive
+https://www.automobilemag.com,automotive
+https://www.autoweek.com,automotive
+https://www.bmwusa.com,automotive
+https://www.ford.com,automotive
+https://www.chevrolet.com,automotive
+https://www.toyota.com,automotive
+https://www.honda.com,automotive
+https://www.audi.com,automotive
+https://www.volkswagen.com,automotive
+https://www.porsche.com,automotive
+https://www.nissanusa.com,automotive
+https://www.mercedes-benz.com,automotive
+https://www.zillow.com,real estate
+https://www.realtor.com,real estate
+https://www.trulia.com,real estate
+https://www.redfin.com,real estate
+https://www.loopnet.com,real estate
+https://www.century21.com,real estate
+https://www.remax.com,real estate
+https://www.kw.com,real estate
+https://www.bhgre.com,real estate
+https://www.coldwellbanker.com,real estate
+https://www.sothebysrealty.com,real estate
+https://www.exprealty.com,real estate
+https://www.theagencyre.com,real estate
+https://www.fathomrealty.com,real estate
+https://www.equator.com,real estate
+https://www.hud.gov,real estate
+https://www.propertyguru.com,real estate
+https://www.domain.com.au,real estate
+https://www.realestate.com.au,real estate
+https://www.menshealth.com,lifestyle
+https://www.womenshealthmag.com,lifestyle
+https://www.elle.com,lifestyle
+https://www.vogue.com,lifestyle
+https://www.gq.com,lifestyle
+https://www.cosmopolitan.com,lifestyle
+https://www.harpersbazaar.com,lifestyle
+https://www.oprah.com,lifestyle
+https://www.popsugar.com,lifestyle
+https://www.refinery29.com,lifestyle
+https://www.wellandgood.com,lifestyle
+https://www.thekitchn.com,lifestyle
+https://www.bonappetit.com,lifestyle
+https://www.marthastewart.com,lifestyle
+https://www.livingetc.com,lifestyle
+https://www.architecturaldigest.com,lifestyle
+https://www.housebeautiful.com,lifestyle
+https://www.countryliving.com,lifestyle
+https://www.elledecor.com,lifestyle
+https://www.trendhunter.com,lifestyle
+https://www.coursera.org,education
+https://www.edx.org,education
+https://www.udemy.com,education
+https://www.lynda.com,education
+https://www.codecademy.com,education
+https://www.academia.edu,education
+https://www.ted.com,education
+https://www.brainly.com,education
+https://www.chegg.com,education
+https://www.edutopia.org,education
+https://www.openlearn.com,education
+https://www.mit.edu,education
+https://www.harvard.edu,education
+https://www.cmu.edu,education
+https://www.stanford.edu,education
+https://www.uc.edu,education
+https://www.yale.edu,education
+https://www.ox.ac.uk,education
+https://www.cam.ac.uk,education
+https://www.academy.edu,education
+https://www.learndash.com,education
+https://www.purdue.edu,education
+https://www.npr.org/education,education
+https://www.fiverr.com,education
+https://www.wolframalpha.com,education
+https://www.codecademy.com,education
+https://www.teachable.com,education
+https://www.youth.gov,education
+https://www.foodnetwork.com,food & drink
+https://www.bonappetit.com,food & drink
+https://www.delish.com,food & drink
+https://www.epicurious.com,food & drink
+https://www.allrecipes.com,food & drink
+https://www.cookinglight.com,food & drink
+https://www.tastespotting.com,food & drink
+https://www.seriouseats.com,food & drink
+https://www.smittenkitchen.com,food & drink
+https://www.cookingchannel.com,food & drink
+https://www.recipetineats.com,food & drink
+https://www.bbcgoodfood.com,food & drink
+https://www.gourmettraveller.com.au,food & drink
+https://www.saveur.com,food & drink
+https://www.marthastewart.com/food,food & drink
+https://www.thekitchn.com,food & drink
+https://www.eatthis.com,food & drink
+https://www.food52.com,food & drink
+https://www.finecooking.com,food & drink
+https://www.chefsteps.com,food & drink
+https://www.americastestkitchen.com,food & drink
+https://www.seriouseats.com,food & drink
+https://www.nigella.com,food & drink
+https://www.cookingclassy.com,food & drink
+https://www.kraftrecipes.com,food & drink
+https://www.foodandwine.com,food & drink
+https://www.cooksillustrated.com,food & drink
+https://www.30daygourmet.com,food & drink
+https://www.tablespoon.com,food & drink
+https://www.ouichefnetwork.com,food & drink
+https://www.cnn.com,news
+https://www.bbc.com,news
+https://www.reuters.com,news
+https://www.nytimes.com,news
+https://www.theguardian.com,news
+https://www.forbes.com,news
+https://www.wsj.com,news
+https://www.nbcnews.com,news
+https://www.aljazeera.com,news
+https://www.usa.today,news
+https://www.washingtonpost.com,news
+https://www.bloomberg.com,news
+https://www.huffpost.com,news
+https://www.bbc.co.uk,news
+https://www.newsweek.com,news
+https://www.theverge.com,news
+https://www.axios.com,news
+https://www.cbsnews.com,news
+https://www.npr.org,news
+https://www.salon.com,news
+https://www.ndtv.com,news
+https://www.hindustantimes.com,news
+https://www.timesofindia.indiatimes.com,news
+https://www.thehindu.com,news
+https://www.moneycontrol.com,news
+https://www.indiatoday.in,news
+https://www.firstpost.com,news
+https://www.dnaindia.com,news
+https://www.thewire.in,news
+https://www.news18.com,news
+https://www.rediff.com,news
+https://www.espn.com,sports
+https://www.sports.yahoo.com,sports
+https://www.foxsports.com,sports
+https://www.cbssports.com,sports
+https://www.nbcsports.com,sports
+https://www.skysports.com,sports
+https://www.bbc.com/sport,sports
+https://www.sportsillustrated.com,sports
+https://www.theathletic.com,sports
+https://www.mlb.com,sports
+https://www.nba.com,sports
+https://www.nfl.com,sports
+https://www.nhl.com,sports
+https://www.uefa.com,sports
+https://www.fifa.com,sports
+https://www.tsn.ca,sports
+https://www.cricbuzz.com,sports
+https://www.wwe.com,sports
+https://www.laliga.com,sports
+https://www.motorsport.com,sports
+https://www.cricket.com,sports
+https://www.basketball-reference.com,sports
+https://www.pro-football-reference.com,sports
+https://www.soccerway.com,sports
+https://www.golf.com,sports
+https://www.tennis.com,sports
+https://www.formula1.com,sports
+https://www.bleacherreport.com,sports
+https://www.nbcsports.com.au,sports
+
+
+
